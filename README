@@ -1,0 +1,20 @@
+jQuery UI Forms Plugin
+By Fabian Topfstedt - http://www.topfstedt.de
+Released under the MIT license
+
+Description:
+------------
+A plugin that styles form controls in a jQuery UI compliant way.
+
+Requires:
+---------
+jQuery and jQuery UI
+
+Usage:
+------
+After adding the script sources of jQuery, jQuery UI and the plugin, you can
+add the following snippet to add CSS classes to your forms and form elements.
+
+$(document).ready(function(){
+	$(document).uiforms();
+});
