@@ -12,7 +12,7 @@ jQuery (1.3) and jQuery UI (1.7)
 
 Usage:
 ------
-After adding the script sources of jQuery, jQuery UI and the plugin, you can
+After adding the CSS and script resources of jQuery, jQuery UI and the plugin, you can
 add the following snippet to add CSS classes to your forms and form elements.
 
 $(document).ready(function(){
